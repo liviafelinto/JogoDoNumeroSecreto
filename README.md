@@ -1,5 +1,7 @@
 <h1 align="center"> JOGO DO NÚMERO SECRETO </h1>
 
+![Capa JSGame](https://github.com/liviafelinto/JogoDoNumeroSecreto/assets/155484713/a578145d-882a-46a5-95c4-dcb6e69b0f4b)
+
 **Projeto inicial da minha Formação Iniciante em Programação, pela Alura.**
 
 Consiste em um jogo de adivinha, no qual o programa gera um número aleatório a cada "Novo Jogo" e interage com o usuário até que ele acerte o número gerado.
@@ -12,4 +14,3 @@ O jogo possui auxilio de voz integrado, então clique em "ALLOW" (permitir) para
 - HTML;
 - CSS;
 - JavaScript.
-
